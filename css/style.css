@@ -262,6 +262,8 @@ button {
 
 .logo a img {
      z-index: 9999;
+     width: 200px;
+     max-width 200px !important;
      position: relative;
 }
 
